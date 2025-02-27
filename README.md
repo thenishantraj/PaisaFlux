@@ -1,6 +1,6 @@
-# PaisaFlux - Your Personal Finance Assistant
+# 💰PaisaFlux - Your Personal Finance Assistant
 
-![PaisaFlux Logo](https://via.placeholder.com/150.png?text=PaisaFlux) <!-- Replace with actual logo if available -->
+
 
 PaisaFlux is a lightweight, responsive web application designed to help individuals manage their personal finances with ease. Whether you're tracking income, monitoring expenses, or checking your balance, PaisaFlux provides a clean and intuitive interface to keep your financial data organized. Built using HTML, CSS, and JavaScript, it leverages local storage for persistent data and offers real-time updates for a seamless user experience.
 
