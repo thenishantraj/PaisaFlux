@@ -26,3 +26,13 @@ To run PaisaFlux locally on your machine, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/paisaflux.git
+
+## Contact
+
+Built with 💛 by [Nishant Raj](https://www.linkedin.com/in/the-nishant-raj-82972b208/).  
+Connect with me:  
+- **YouTube:** [the_nishant_raj](https://www.youtube.com/@the_nishant_raj)  
+- **Instagram:** [the_nishant_raj](https://www.instagram.com/the_nishant_raj/)  
+- **Email:** [nishant@example.com](mailto:nishant@example.com) <!-- Update with real email -->  
+
+© 2025 Nishant Raj. All rights reserved.
