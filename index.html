@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Money Manager Pro</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>💰PaisaFlux</h1>
+        <p class="tagline">Your Personal Finance Assistant</p>
+    </header>
+
+    <main>
+        <div class="input-section">
+            <div class="input-group">
+                <input type="number" id="amount" placeholder="Amount (₹)">
+                <input type="text" id="category" placeholder="Category">
+                <select id="type">
+                    <option value="Expense">Expense</option>
+                    <option value="Income">Income</option>
+                </select>
+                <button onclick="addTransaction()" class="btn-add">Add Transaction</button>
+            </div>
+        </div>
+
+        <div class="report-section">
+            <div class="report-card">
+                <h3>Total Income: <span id="totalIncome">₹0</span></h3>
+            </div>
+            <div class="report-card">
+                <h3>Total Expense: <span id="totalExpense">₹0</span></h3>
+            </div>
+            <div class="report-card balance">
+                <h3>Balance: <span id="balance">₹0</span></h3>
+            </div>
+        </div>
+
+        <div class="transactions">
+            <h2>Transaction History</h2>
+            <div id="transactionList"></div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="social-links">
+            <a href="https://www.youtube.com/@the_nishant_raj" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="mailto:nishantraj6581@email.com" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://www.instagram.com/the_nishant_raj/?utm_source=ig_web_button_share_sheet" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/the-nishant-raj-82972b208/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        </div>
+        <p class="copyright">©2025 Nishant Raj  All rights reserved</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
