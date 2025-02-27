@@ -17,7 +17,7 @@ PaisaFlux is a lightweight, responsive web application designed to help individu
 ## Demo
 
 <!-- Add a screenshot or GIF here if available -->
-*(Coming soon: Add a live demo link or screenshot of the app in action!)*
+*(Coming soon: A live demo  of the app in action!)*
 
 ## Installation
 
